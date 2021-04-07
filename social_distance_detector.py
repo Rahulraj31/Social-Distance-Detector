@@ -1,6 +1,4 @@
 
-# python social_distance_detector.py --input pedestrians.mp4 --output output.avi
-
 # import the necessary packages
 from TheBasic import social_distancing_config as config
 from TheBasic.detection import detect_people
